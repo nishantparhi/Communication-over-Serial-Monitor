@@ -12,11 +12,11 @@ Required Materials:
   3)Arduino IDE
   
 ### The constructed circuit
-When 0 is pressed:
+When ON is typed:
 
 ![](constructedcircuit0.jpeg)
 
-When 1 is pressed
+When OFF is typed:
 
 ![](Constructedcircuit1.jpeg)
 
@@ -27,7 +27,13 @@ The circuit diagram (Made using Fritzing)
 
 ### The Serial Monitor
 
-![](serialmonitor.jpeg)
+When ON is typed:
+
+![](serialmonitor1.jpeg)
+
+When OFF is typed:
+
+![](serialmonitor2.jpeg)
 
 
 #### NOTE: If any other number is pressed, it shows '48 + that number', and the LED gets switched off.
